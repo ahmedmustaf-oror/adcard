@@ -1,0 +1,6 @@
+{
+  "name": "OROR Admin",
+  "description": "لوحة التحكم الاحترافية لإدارة بطاقات وطلبات ومستخدمين OROR Card",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
